@@ -27,6 +27,3 @@ discogs/
 ├── README.md
 └── requirements.txt
 ```
-## Author
-
-Viktor Suter
