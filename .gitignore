@@ -1,20 +1,15 @@
 # Secrets
 .env
-config.py
 *token*
 
-# Data (too large for GitHub)
-data/
+# Data (if downloaded locally)
 *.csv
-*.json.gz
-
-# Models
-models/*.json
-models/*.pkl
 
 # Python
 __pycache__/
 *.pyc
+
+# Jupyter
 .ipynb_checkpoints/
 
 # OS
