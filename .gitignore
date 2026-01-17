@@ -1,0 +1,21 @@
+# Secrets
+.env
+config.py
+*token*
+
+# Data (too large for GitHub)
+data/
+*.csv
+*.json.gz
+
+# Models
+models/*.json
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
